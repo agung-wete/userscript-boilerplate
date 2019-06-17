@@ -1,6 +1,6 @@
 # USERSCRIPT BOILERPLATE
 
-## INGRIDIENT
+## INGREDIENT
 - eslint
 - eslint-standard
 - terserjs for minify the code
